@@ -1,4 +1,4 @@
-# link-like-library
+# astro-docker-sample
 
 Astro blog テンプレートをベースにしたブログサイト。
 
